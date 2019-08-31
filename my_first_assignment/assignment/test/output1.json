@@ -1,0 +1,121 @@
+{"status": "rejected"}
+{"status": "rejected"}
+{"status": "rejected"}
+{
+  "venue": "MCU",
+  "rooms": ["Dark Phoenix"],
+  "status": "success"
+}
+{"status": "success"}
+{
+  "venue": "Pixar",
+  "rooms": ["Toy Story"],
+  "status": "success"
+}
+{"status": "rejected"}
+{
+  "venue": "Disney",
+  "rooms": ["Aladdin"],
+  "status": "success"
+}
+{"status": "rejected"}
+{"status": "success"}
+{"status": "success"}
+{"status": "rejected"}
+{
+  "venue": "Pixar",
+  "rooms": ["Toy Story"],
+  "status": "success"
+}
+{"status": "rejected"}
+{
+  "venue": "MCU",
+  "rooms": [
+	"Endgame",
+	"Black Widow",
+	"Guardians of the Galaxy 3"
+  ],
+  "status": "success"
+}
+[
+  {
+	"reservations": [],
+	"room": "Dark Phoenix"
+  },
+  {
+	"reservations": [{
+	  "start": "2019-03-20",
+	  "end": "2019-03-29",
+	  "id": "mcu fan"
+	}],
+	"room": "Endgame"
+  },
+  {
+	"reservations": [{
+	  "start": "2019-03-20",
+	  "end": "2019-03-29",
+	  "id": "mcu fan"
+	}],
+	"room": "Black Widow"
+  },
+  {
+	"reservations": [{
+	  "start": "2019-03-20",
+	  "end": "2019-03-29",
+	  "id": "mcu fan"
+	}],
+	"room": "Guardians of the Galaxy 3"
+  }
+]
+{
+  "venue": "MCU",
+  "rooms": ["Endgame"],
+  "status": "success"
+}
+{
+  "venue": "MCU",
+  "rooms": ["Endgame"],
+  "status": "success"
+}
+[
+  {
+	"reservations": [],
+	"room": "Dark Phoenix"
+  },
+  {
+	"reservations": [
+	  {
+		"start": "2019-03-19",
+		"end": "2019-03-19",
+		"id": "123movies"
+	  },
+	  {
+		"start": "2019-03-20",
+		"end": "2019-03-29",
+		"id": "mcu fan"
+	  },
+	  {
+		"start": "2019-04-19",
+		"end": "2019-04-19",
+		"id": "latecomer"
+	  }
+	],
+	"room": "Endgame"
+  },
+  {
+	"reservations": [{
+	  "start": "2019-03-20",
+	  "end": "2019-03-29",
+	  "id": "mcu fan"
+	}],
+	"room": "Black Widow"
+  },
+  {
+	"reservations": [{
+	  "start": "2019-03-20",
+	  "end": "2019-03-29",
+	  "id": "mcu fan"
+	}],
+	"room": "Guardians of the Galaxy 3"
+  }
+]

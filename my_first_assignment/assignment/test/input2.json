@@ -1,0 +1,22 @@
+{"command":"room", "venue": "one", "room": "one", "size": "small"}
+{"command":"room", "venue": "two", "room": "two", "size": "small"}
+{"command":"room", "venue": "three", "room": "three", "size": "small"}
+{"command":"room", "venue": "four", "room": "four", "size": "small"}
+{"command":"room", "venue": "five", "room": "five", "size": "small"}
+{"command":"room", "venue": "six", "room": "six", "size": "medium"}
+{"command":"room", "venue": "seven", "room": "seven", "size": "medium"}
+{"command":"room", "venue": "eight", "room": "eight", "size": "medium"}
+{"command":"room", "venue": "nine", "room": "nine", "size": "medium"}
+{"command":"room", "venue": "ten", "room": "ten", "size": "medium"}
+{ "command": "request", "id": "large", "start": "2019-03-26", "end": "2019-03-26", "small": 0, "medium": 0, "large": 1 }
+{ "command": "request", "id": "large and small", "start": "2019-03-26", "end": "2019-03-26", "small": 1, "medium": 0, "large": 1 }
+{ "command": "request", "id": "large and small and medium", "start": "2019-03-26", "end": "2019-03-26", "small": 1, "medium": 1, "large": 1 }
+{ "command": "request", "id": "small and medium", "start": "2019-03-26", "end": "2019-03-26", "small": 1, "medium": 1, "large": 0 }
+{ "command": "request", "id": "medium", "start": "2019-03-26", "end": "2019-03-26", "small": 0, "medium": 1, "large": 0 }
+{ "command": "request", "id": "two medium", "start": "2019-03-26", "end": "2019-03-26", "small": 0, "medium": 2, "large": 0 }
+{ "command": "request", "id": "medium number two", "start": "2019-03-25", "end": "2019-03-27", "small": 0, "medium": 1, "large": 0 }
+{ "command": "request", "id": "medium number three", "start": "2019-03-26", "end": "2019-03-26", "small": 0, "medium": 1, "large": 0 }
+{"command":"cancel", "id": "medium number two"}
+{ "command": "request", "id": "small number one", "start": "2012-03-05", "end": "2021-04-27", "small": 1, "medium": 0, "large": 0 }
+{ "command": "request", "id": "small number two", "start": "2019-03-25", "end": "2019-03-27", "small": 1, "medium": 0, "large": 0 }
+{ "command": "list", "venue": "one" }

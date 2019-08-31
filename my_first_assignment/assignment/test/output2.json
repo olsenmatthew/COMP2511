@@ -1,0 +1,39 @@
+{"status": "rejected"}
+{"status": "rejected"}
+{"status": "rejected"}
+{"status": "rejected"}
+{
+  "venue": "six",
+  "rooms": ["six"],
+  "status": "success"
+}
+{"status": "rejected"}
+{
+  "venue": "seven",
+  "rooms": ["seven"],
+  "status": "success"
+}
+{
+  "venue": "eight",
+  "rooms": ["eight"],
+  "status": "success"
+}
+{"status": "success"}
+{
+  "venue": "one",
+  "rooms": ["one"],
+  "status": "success"
+}
+{
+  "venue": "two",
+  "rooms": ["two"],
+  "status": "success"
+}
+[{
+  "reservations": [{
+	"start": "2012-03-05",
+	"end": "2021-04-27",
+	"id": "small number one"
+  }],
+  "room": "one"
+}]

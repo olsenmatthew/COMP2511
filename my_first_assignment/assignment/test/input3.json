@@ -1,0 +1,36 @@
+{"command":"room", "venue": "one", "room": "one", "size": "small"}
+{"command":"room", "venue": "one", "room": "two", "size": "small"}
+{"command":"room", "venue": "two", "room": "three", "size": "small"}
+{"command":"room", "venue": "two", "room": "four", "size": "small"}
+{"command":"room", "venue": "three", "room": "five", "size": "small"}
+{"command":"room", "venue": "one", "room": "six", "size": "medium"}
+{"command":"room", "venue": "one", "room": "seven", "size": "medium"}
+{"command":"room", "venue": "two", "room": "eight", "size": "medium"}
+{"command":"room", "venue": "two", "room": "nine", "size": "medium"}
+{"command":"room", "venue": "three", "room": "ten", "size": "medium"}
+{"command":"room", "venue": "three", "room": "eleven", "size": "large"}
+{"command":"room", "venue": "one", "room": "eleven", "size": "large"}
+{"command":"room", "venue": "two", "room": "eleven", "size": "large"}
+{ "command": "change", "id": "large1", "start": "2019-03-27", "end": "2019-03-29", "small": 1, "medium": 0, "large": 1 }
+{ "command": "change", "id": "large1", "start": "2019-03-27", "end": "2019-03-29", "small": 1, "medium": 0, "large": 2 }
+{ "command": "change", "id": "large1", "start": "2019-03-27", "end": "2019-03-29", "small": 2, "medium": 1, "large": 1 }
+{ "command": "request", "id": "large1", "start": "2019-03-23", "end": "2019-03-29", "small": 0, "medium": 0, "large": 1 }
+{ "command": "request", "id": "large2", "start": "2019-03-26", "end": "2019-03-26", "small": 0, "medium": 0, "large": 1 }
+{ "command": "request", "id": "large3", "start": "2019-03-26", "end": "2019-03-26", "small": 0, "medium": 0, "large": 1 }
+{ "command": "request", "id": "large4", "start": "2019-03-26", "end": "2019-03-26", "small": 0, "medium": 0, "large": 1 }
+{ "command": "change", "id": "large1", "start": "2019-03-27", "end": "2019-03-29", "small": 1, "medium": 0, "large": 1 }
+{ "command": "change", "id": "large1", "start": "2019-03-27", "end": "2019-03-29", "small": 1, "medium": 0, "large": 2 }
+{ "command": "change", "id": "large1", "start": "2019-03-27", "end": "2019-03-29", "small": 2, "medium": 1, "large": 1 }
+{ "command": "list", "venue": "one" }
+{ "command": "list", "venue": "two" }
+{ "command": "list", "venue": "three" }
+{"command":"cancel", "id": "large1"}
+{ "command": "list", "venue": "one" }
+{ "command": "list", "venue": "two" }
+{ "command": "list", "venue": "three" }
+{ "command": "request", "id": "large4", "start": "2019-03-26", "end": "2019-03-26", "small": 0, "medium": 0, "large": 1 }
+{ "command": "change", "id": "large4", "start": "2019-03-27", "end": "2019-03-29", "small": 1, "medium": 0, "large": 0 }
+{ "command": "change", "id": "large4", "start": "2012-03-27", "end": "2018-03-29", "small": 2, "medium": 2, "large": 1 }
+{ "command": "list", "venue": "one" }
+{ "command": "list", "venue": "two" }
+{ "command": "list", "venue": "three" }

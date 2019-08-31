@@ -1,0 +1,294 @@
+{"status": "rejected"}
+{"status": "rejected"}
+{"status": "rejected"}
+{
+  "venue": "one",
+  "rooms": ["eleven"],
+  "status": "success"
+}
+{
+  "venue": "two",
+  "rooms": ["eleven"],
+  "status": "success"
+}
+{
+  "venue": "three",
+  "rooms": ["eleven"],
+  "status": "success"
+}
+{"status": "rejected"}
+{
+  "venue": "one",
+  "rooms": [
+    "one",
+    "eleven"
+  ],
+  "status": "success"
+}
+{"status": "rejected"}
+{
+  "venue": "one",
+  "rooms": [
+    "one",
+    "two",
+    "six",
+    "eleven"
+  ],
+  "status": "success"
+}
+[
+  {
+    "reservations": [{
+      "start": "2019-03-27",
+      "end": "2019-03-29",
+      "id": "large1"
+    }],
+    "room": "one"
+  },
+  {
+    "reservations": [{
+      "start": "2019-03-27",
+      "end": "2019-03-29",
+      "id": "large1"
+    }],
+    "room": "two"
+  },
+  {
+    "reservations": [{
+      "start": "2019-03-27",
+      "end": "2019-03-29",
+      "id": "large1"
+    }],
+    "room": "six"
+  },
+  {
+    "reservations": [],
+    "room": "seven"
+  },
+  {
+    "reservations": [{
+      "start": "2019-03-27",
+      "end": "2019-03-29",
+      "id": "large1"
+    }],
+    "room": "eleven"
+  }
+]
+[
+  {
+    "reservations": [],
+    "room": "three"
+  },
+  {
+    "reservations": [],
+    "room": "four"
+  },
+  {
+    "reservations": [],
+    "room": "eight"
+  },
+  {
+    "reservations": [],
+    "room": "nine"
+  },
+  {
+    "reservations": [{
+      "start": "2019-03-26",
+      "end": "2019-03-26",
+      "id": "large2"
+    }],
+    "room": "eleven"
+  }
+]
+[
+  {
+    "reservations": [],
+    "room": "five"
+  },
+  {
+    "reservations": [],
+    "room": "ten"
+  },
+  {
+    "reservations": [{
+      "start": "2019-03-26",
+      "end": "2019-03-26",
+      "id": "large3"
+    }],
+    "room": "eleven"
+  }
+]
+{"status": "success"}
+[
+  {
+    "reservations": [],
+    "room": "one"
+  },
+  {
+    "reservations": [],
+    "room": "two"
+  },
+  {
+    "reservations": [],
+    "room": "six"
+  },
+  {
+    "reservations": [],
+    "room": "seven"
+  },
+  {
+    "reservations": [],
+    "room": "eleven"
+  }
+]
+[
+  {
+    "reservations": [],
+    "room": "three"
+  },
+  {
+    "reservations": [],
+    "room": "four"
+  },
+  {
+    "reservations": [],
+    "room": "eight"
+  },
+  {
+    "reservations": [],
+    "room": "nine"
+  },
+  {
+    "reservations": [{
+      "start": "2019-03-26",
+      "end": "2019-03-26",
+      "id": "large2"
+    }],
+    "room": "eleven"
+  }
+]
+[
+  {
+    "reservations": [],
+    "room": "five"
+  },
+  {
+    "reservations": [],
+    "room": "ten"
+  },
+  {
+    "reservations": [{
+      "start": "2019-03-26",
+      "end": "2019-03-26",
+      "id": "large3"
+    }],
+    "room": "eleven"
+  }
+]
+{
+  "venue": "one",
+  "rooms": ["eleven"],
+  "status": "success"
+}
+{
+  "venue": "one",
+  "rooms": ["one"],
+  "status": "success"
+}
+{
+  "venue": "one",
+  "rooms": [
+    "one",
+    "two",
+    "six",
+    "seven",
+    "eleven"
+  ],
+  "status": "success"
+}
+[
+  {
+    "reservations": [{
+      "start": "2012-03-27",
+      "end": "2018-03-29",
+      "id": "large4"
+    }],
+    "room": "one"
+  },
+  {
+    "reservations": [{
+      "start": "2012-03-27",
+      "end": "2018-03-29",
+      "id": "large4"
+    }],
+    "room": "two"
+  },
+  {
+    "reservations": [{
+      "start": "2012-03-27",
+      "end": "2018-03-29",
+      "id": "large4"
+    }],
+    "room": "six"
+  },
+  {
+    "reservations": [{
+      "start": "2012-03-27",
+      "end": "2018-03-29",
+      "id": "large4"
+    }],
+    "room": "seven"
+  },
+  {
+    "reservations": [{
+      "start": "2012-03-27",
+      "end": "2018-03-29",
+      "id": "large4"
+    }],
+    "room": "eleven"
+  }
+]
+[
+  {
+    "reservations": [],
+    "room": "three"
+  },
+  {
+    "reservations": [],
+    "room": "four"
+  },
+  {
+    "reservations": [],
+    "room": "eight"
+  },
+  {
+    "reservations": [],
+    "room": "nine"
+  },
+  {
+    "reservations": [{
+      "start": "2019-03-26",
+      "end": "2019-03-26",
+      "id": "large2"
+    }],
+    "room": "eleven"
+  }
+]
+[
+  {
+    "reservations": [],
+    "room": "five"
+  },
+  {
+    "reservations": [],
+    "room": "ten"
+  },
+  {
+    "reservations": [{
+      "start": "2019-03-26",
+      "end": "2019-03-26",
+      "id": "large3"
+    }],
+    "room": "eleven"
+  }
+]

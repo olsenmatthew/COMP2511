@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"unsw.venues","l":"Reservation"},{"p":"unsw.venues","l":"Room"},{"p":"unsw.venues","l":"Size"},{"p":"unsw.venues","l":"Venue"},{"p":"unsw.venues","l":"VenueHireSystem"}]

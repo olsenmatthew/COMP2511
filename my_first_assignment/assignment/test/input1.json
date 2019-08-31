@@ -1,0 +1,29 @@
+{"command":"room", "venue": "MCU", "room": "Dark Phoenix", "size": "small"}
+{"command":"room", "venue": "MCU", "room": "Endgame", "size": "large"}
+{"command":"room", "venue": "Pixar", "room": "Toy Story", "size": "medium"}
+{"command":"room", "venue": "DC", "room": "Joker", "size": "large"}
+{"command":"room", "venue": "DC", "room": "wonder woman", "size": "large"}
+{"command":"room", "venue": "MCU", "room": "Black Widow", "size": "large"}
+{"command":"room", "venue": "MCU", "room": "Guardians of the Galaxy 3", "size": "large"}
+{"command":"room", "venue": "DC", "room": "Aquaman", "size": "large"}
+{"command":"room", "venue": "Disney", "room": "Let it go", "size": "small"}
+{"command":"room", "venue": "Disney", "room": "Aladdin", "size": "medium"}
+{"command":"cancel", "id": "All Dark Phoenix Tickets"}
+{"command":"cancel", "id": "Dark Phoenix"}
+{"command":"cancel", "id": "DC"}
+{ "command": "request", "id": "Dark Phoenix", "start": "2019-03-26", "end": "2019-03-26", "small": 1, "medium": 0, "large": 0 }
+{"command":"cancel", "id": "Dark Phoenix"}
+{ "command": "request", "id": "first medium", "start": "2019-03-26", "end": "2019-03-26", "small": 0, "medium": 1, "large": 0 }
+{ "command": "request", "id": "second and third medium", "start": "2019-03-26", "end": "2019-03-26", "small": 0, "medium": 2, "large": 0 }
+{ "command": "request", "id": "second medium", "start": "2019-03-26", "end": "2019-03-26", "small": 0, "medium": 1, "large": 0 }
+{ "command": "request", "id": "both mediums", "start": "2019-03-25", "end": "2019-03-27", "small": 0, "medium": 2, "large": 0 }
+{"command":"cancel", "id": "first medium"}
+{"command":"cancel", "id": "second medium"}
+{ "command": "request", "id": "both mediums", "start": "2019-03-25", "end": "2019-03-27", "small": 0, "medium": 2, "large": 0 }
+{ "command": "request", "id": "first medium", "start": "2019-03-26", "end": "2019-03-26", "small": 0, "medium": 1, "large": 0 }
+{ "command": "request", "id": "second medium", "start": "2019-03-26", "end": "2019-03-26", "small": 0, "medium": 2, "large": 0 }
+{ "command": "request", "id": "mcu fan", "start": "2019-03-20", "end": "2019-03-29", "small": 0, "medium": 0, "large": 3 }
+{ "command": "list", "venue": "MCU" }
+{ "command": "request", "id": "123movies", "start": "2019-03-19", "end": "2019-03-19", "small": 0, "medium": 0, "large": 1 }
+{ "command": "request", "id": "latecomer", "start": "2019-04-19", "end": "2019-04-19", "small": 0, "medium": 0, "large": 1 }
+{ "command": "list", "venue": "MCU" }
